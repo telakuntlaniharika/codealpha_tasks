@@ -1,6 +1,6 @@
 # CodeAlpha-Internship-Project
 
-My technical internship project submission[span_1](start_span)[span_1](end_span).
+My technical internship project submission.
 
 ## 🚀 About the Project
 This repository contains the tasks and projects completed during my internship at **CodeAlpha**. 
