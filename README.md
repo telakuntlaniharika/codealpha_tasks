@@ -1,4 +1,4 @@
-# CodeAlpha-Internship-Project
+# CodeAlpha_tasks
 
 My technical internship project submission.
 
@@ -18,5 +18,3 @@ This repository contains the tasks and projects completed during my internship a
 
 ---
 *Created as part of the CodeAlpha Internship Program.*
-# CodeAlpha-Internship-Project
-My technical internship project submission.
