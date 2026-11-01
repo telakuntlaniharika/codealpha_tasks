@@ -1,20 +1,24 @@
+
 # CodeAlpha_tasks
 
 My technical internship project submission.
 
 ## 🚀 About the Project
-This repository contains the tasks and projects completed during my internship at **CodeAlpha**. 
+This repository contains the tasks and projects completed during my internship at CodeAlpha.
 
 ## 🛠️ Tech Stack
-* **Languages:** [e.g., Python, JavaScript, HTML/CSS]
-* **Tools / Frameworks:** [e.g., VS Code, React, Git]
+* **Languages:** Python
+* **Tools / Frameworks:** VS Code, Git
 
 ## ✨ Features
-* [Briefly list a key feature of your project, e.g., User-friendly interface]
-* [Another feature or functionality]
+* Successfully implemented all assigned programming tasks during the CodeAlpha internship.
+* Clean, structured, and well-documented Python code.
 
 ## 📂 Project Structure
-* `[filename.ext]` - Brief description of what this file does.
+* `task1.py` - Solution for Task 1
+* `task2.py` - Solution for Task 2
+* `task3.py` - Solution for Task 3
+* `task4.py` - Solution for Task 4
 
 ---
 *Created as part of the CodeAlpha Internship Program.*
